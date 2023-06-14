@@ -2,9 +2,10 @@
 A 3D Game Engine Written in C++.
 
 ## Features
+* 2D & 3D Game Development.
+* 2D & 3D Rendering.
 * DirectX 12 Support.
 * Vulkan Support.
-* 2D & 3D Rendering.
 * Kalion Physics Engine (Also made by me :D)
 * Written in C++.
 * Cross-Platform.
