@@ -9,7 +9,7 @@ A 3D Game Engine Written in C++.
 * Kalion Physics Engine (Also made by me :D)
 * Written in C++.
 * Cross-Platform.
-* Build Support for Deticated Servers.
+* Build Support for Dedicated Servers.
 * Build Support for PC (Windows & Linux)
 * Build Support for Mobile (iOS & Android)
 * Build Support for Gaming Consoles (PlayStation 4 & 5 and Xbox One & Series X|S).
